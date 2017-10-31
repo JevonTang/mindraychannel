@@ -2,12 +2,12 @@
   "welcomeFile": "index.html",
   "routes": [
     {
-      "path": "/destinations/northwind",
+      "path": "/lac-service-mindray",
       "target": {
         "type": "destination",
-        "name": "northwind"
+        "name": "lac-service-mindray"
       },
-      "description": "northwind"
+      "description": "lac-service-mindray"
     }
   ],
   "cacheControl": [
@@ -15,11 +15,6 @@
       "directive": "private",
       "maxAge": 0,
       "path": "*html"
-    },
-    {
-      "directive": "private",
-      "maxAge": 0,
-      "path": "sap-ui-cachebuster-info.json"
     },
     {
       "directive": "public",
