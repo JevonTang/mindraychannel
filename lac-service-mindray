@@ -1,0 +1,8 @@
+#
+#Mon Oct 30 10:51:40 UTC 2017
+Name=mindraychannel
+URL=https\://mindraydmsab9811275.hana.ondemand.com/lac-service-mindray/
+ProxyType=Internet
+Type=HTTP
+CloudConnectorVersion=2
+Authentication=NoAuthentication
